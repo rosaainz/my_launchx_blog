@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Rosa Sainz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://rosaainz.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rosaainz.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://rosaainz.github.io/my_launchx_blog/posts/post1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rosaainz.github.io/my_launchx_blog/posts/post1/</guid>
+      <description>¡Hola! Esta es mi experiencia en el LaunchX de Innovacción Virtual. Empecemos con el Onboarding en donde vimos una introducción a la programación con Python, en donde se dejaron realizar actividades en el notebook Jupyter, yo no conocía el notebook y ¡me encanto! porque podía hacer mis apuntes y después comprar en código; o para hacer los ejercicios podía escribir mi procedimiento para resolver los ejercicios y después ejecutar el código ahí mismo, en serio me fascino 💘 También me gustó la manera en la que nos enseñaron a usar Python junto con el notebook, no puedo creer que en una semana entendí y me sentí muy cómoda trabajando con estas dos herramientas.</description>
+    </item>
+    
     <item>
       <title> La cultura en el desarrollo de software</title>
       <link>https://rosaainz.github.io/my_launchx_blog/posts/intro/</link>
